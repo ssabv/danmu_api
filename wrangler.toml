@@ -1,5 +1,5 @@
-name = "danmu-api"
-main = "danmu-apia/worker.js"
+name = "danmu-apia"
+main = "danmu_api/worker.js"
 compatibility_date = "2025-09-13"
 keep_vars = true
 compatibility_flags = ["nodejs_compat"]
